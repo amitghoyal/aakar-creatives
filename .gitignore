@@ -1,0 +1,21 @@
+# Environment variables
+config/.env
+
+# Composer
+/vendor/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Cache
+.cache/
