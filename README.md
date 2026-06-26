@@ -189,10 +189,10 @@ DB_PASS=your_password
 
 ## Future Enhancements
 
-- [ ] Shopping cart & checkout flow
+- [x] Shopping cart & checkout flow
 - [ ] Razorpay / UPI payment gateway
 - [ ] Customer authentication & order history
-- [ ] Wishlist & save-for-later
+- [x] Wishlist & save-for-later
 - [ ] Product reviews & star ratings
 - [ ] Email notifications (order confirmation, inquiry reply)
 - [ ] REST API (JSON) for potential mobile app
